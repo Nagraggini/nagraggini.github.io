@@ -11,7 +11,7 @@ The projects become progressively more challenging, reflecting my continuous lea
 
 ## Start Here
 
-👉 [Project Showcase](https://nagraggini.github.io/project-showcase/)
+👉 [Project Showcase](https://nagraggini.github.io/)
 
 [View My CV](https://github.com/Nagraggini/Nagraggini/blob/main/Andrea_Freud_CV.pdf)
 
