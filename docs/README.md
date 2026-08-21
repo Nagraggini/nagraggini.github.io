@@ -1,6 +1,6 @@
 # Projects & Experience
 
-I started this project to truly learn web development — not just by watching tutorials, but by building real applications and solving practical problems.
+I build practical Java backend applications and test automation projects to develop production-oriented software engineering skills.
 
 The projects become progressively more challenging, reflecting my continuous learning journey. My goal is to gain strong, hands-on experience in building modern web applications.
 
@@ -22,20 +22,20 @@ The projects become progressively more challenging, reflecting my continuous lea
 - **Tech:** Java, RestAssured, JUnit, Maven
 - → [Repository](https://github.com/Nagraggini/petstore)
 
-### 🔹 Reqres API Test Automation
-- **Description:** REST Assured-based Java API test automation framework for validating the Reqres REST API.
+### 🔹 JSONPlaceholder API Test Automation
+- **Description:** REST Assured-based Java API test automation framework for validating the JSONPlaceholder REST API.
 - **Tech:** Java, RestAssured, JUnit, Maven
-- → [Repository](https://github.com/Nagraggini/reqres)
+- → [Repository](https://github.com/Nagraggini/jsonplaceholder-demo-api)
 
 ### 🔹 Sauce Demo Automation Framework
 - **Description:** End-to-end UI test automation framework built with Selenium WebDriver and the Page Object Model pattern.
 - **Tech:** Java, Selenium, JUnit, Page Object Model
 - → [Repository](https://github.com/Nagraggini/sauce-demo)
 
-### 🔹 Automation Exercise E2E Test Suite
-- **Description:** Comprehensive UI and API test automation framework.
-- **Tech:** Java, Selenium, JUnit, Page Object Model, RestAssured
-- → [Repository](https://github.com/Nagraggini/automation-exercise)
+### 🔹 Katalon Demo Cura Automation Framework
+- **Description:** End-to-end UI test automation framework built with Playwright and the Page Object Model pattern.
+- **Tech:** TypeScript, Playwright, Page Object Model
+- → [Repository](https://github.com/Nagraggini/katalon-demo-cura)
   
 ### 🔹 Animal Shelter Web Application
 - **Description:** Full-stack web application for managing animal shelter records.  
@@ -47,7 +47,7 @@ The projects become progressively more challenging, reflecting my continuous lea
 - **Tech:** mdBook
 - → [Live demo](https://nagraggini.github.io/my-awesome-book/)
 
-## 📜 Github stats
+## 📜 GitHub stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nagraggini&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagraggini&show_icons=true&theme=tokyonight)
@@ -73,4 +73,4 @@ Git • Docker • GitHub Actions • Maven • Linux
 - Test automation (unit & integration testing)
 - Building production-like projects
 
-I am actively looking for backend developer opportunities where I can contribute and grow. [Let's connect on LinkedIn!"](https://www.linkedin.com/in/andrea-f-5a780974/)
+I am actively looking for backend developer opportunities where I can contribute and grow. [Let's connect on LinkedIn!](https://www.linkedin.com/in/andrea-f-5a780974/)
