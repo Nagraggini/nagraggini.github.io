@@ -47,6 +47,10 @@ The projects become progressively more challenging, reflecting my continuous lea
 - **Tech:** mdBook
 - → [Live demo](https://nagraggini.github.io/my-awesome-book/)
 
+## 🔎 Explore More Projects
+
+These are only a selection of my projects. You can find the rest of my work in my complete [Project Showcase](https://nagraggini.github.io/).
+
 ## 📜 GitHub stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nagraggini&theme=tokyonight)
