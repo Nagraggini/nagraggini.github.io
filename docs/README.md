@@ -19,27 +19,27 @@ The projects become progressively more challenging, reflecting my continuous lea
 
 ### 🔹 Petstore Swagger API Test Automation
 - **Description:** REST Assured-based Java API test automation framework for validating the Swagger Petstore REST API.
-- **Tech:** Java, RestAssured, JUnit, Maven
+- **Tech:** Java, RestAssured, JUnit, Maven, GitHub Actions, Allure Report
 - → [Repository](https://github.com/Nagraggini/petstore)
 
 ### 🔹 JSONPlaceholder API Test Automation
 - **Description:** REST Assured-based Java API test automation framework for validating the JSONPlaceholder REST API.
-- **Tech:** Java, RestAssured, JUnit, Maven
+- **Tech:** Java, RestAssured, JUnit, Maven, GitHub Actions, Surefire Report
 - → [Repository](https://github.com/Nagraggini/jsonplaceholder-demo-api)
 
 ### 🔹 Sauce Demo Automation Framework
 - **Description:** End-to-end UI test automation framework built with Selenium WebDriver and the Page Object Model pattern.
-- **Tech:** Java, Selenium, JUnit, Page Object Model
+- **Tech:** Java, Selenium, JUnit, Page Object Model, GitHub Actions, Allure Report, Surefire Report
 - → [Repository](https://github.com/Nagraggini/sauce-demo)
 
 ### 🔹 Katalon Demo Cura Automation Framework
 - **Description:** End-to-end UI test automation framework built with Playwright and the Page Object Model pattern.
-- **Tech:** TypeScript, Playwright, Page Object Model
+- **Tech:** TypeScript, Playwright, Page Object Model, GitHub Actions, Allure Report
 - → [Repository](https://github.com/Nagraggini/katalon-demo-cura)
   
 ### 🔹 Animal Shelter Web Application
 - **Description:** Full-stack web application for managing animal shelter records.  
-- **Tech:** Java, Spring Boot, PostgreSQL, Spring Data JPA, Hibernate, REST API  
+- **Tech:** Java, Spring Boot, PostgreSQL, Spring Data JPA, Hibernate, REST API, GitHub Actions
 - → [Repository](https://github.com/Nagraggini/animal-shelter)
 
 ### 🔹 My Programming Handbook (Hungarian)
